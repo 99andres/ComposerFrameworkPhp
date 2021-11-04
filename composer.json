@@ -1,0 +1,20 @@
+{
+    "name": "cheli/composer",
+    "description": "franework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":[
+            "app/helpers.php"  
+        ]
+
+    },
+    "authors": [
+        {
+            "name": "andres99",
+            "email": "andresdesarrollador9@gmail.com"
+        }
+    ],
+    "require": {}
+}
